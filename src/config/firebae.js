@@ -3,13 +3,13 @@ import {getAuth, GoogleAuthProvider} from "firebase/auth"
 import { getFirestore } from 'firebase/firestore'
 import { getStorage } from 'firebase/storage'
 const firebaseConfig = {
-  apiKey: "AIzaSyDBI6rcdKwlPI1gRmEye3zV8mmASbB0TtE",
-  authDomain: "fir-course-876e3.firebaseapp.com",
-  projectId: "fir-course-876e3",
-  storageBucket: "fir-course-876e3.appspot.com",
-  messagingSenderId: "202637861458",
-  appId: "1:202637861458:web:115e19c660c6175e81358b",
-  measurementId: "G-1V2K0D98RR"
+  // apiKey: "AIzalwlPI1gRmEye3zV8mmASfdlweembB0TtE",
+  // authDomain: "fir-wcourse-876e3.firebaseapp.com",
+  // projectId: "fir-cosurse-876e3",
+  // storageBucket: "fisr-course-876e3.appspot.com",
+  // messagingSenderId: "2054451008",
+  // appId: "1:861456418:web:115154660c6175e81358b",
+  // measurementId: "G-1V95488RR"
 };
 
 const app = initializeApp(firebaseConfig);
